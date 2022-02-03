@@ -4,4 +4,5 @@
 python main.py get-fixture-infos --league_id 39 --start_date 2022-01-01 --end_date 2022-02-01 --season 2021
 
 # display fixture widget givne fixture id
+python main.py display-fixture-widget --fixture_id 710787
 ```
